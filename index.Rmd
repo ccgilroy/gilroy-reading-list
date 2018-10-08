@@ -1,0 +1,22 @@
+--- 
+title: "Comprehensive Exam Reading List"
+author: "Connor Gilroy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Reading list and notes for my comprehensive exam in sociology at the University of Washington."
+---
+
+# Introduction {-}
+
+This page hosts the reading list and notes for my [PhD comprehensive exam](https://soc.washington.edu/phd-comprehensive-exam) in Sociology at the University of Washington. It's a work in progress, created using the [**bookdown**](https://bookdown.org/) R package.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
