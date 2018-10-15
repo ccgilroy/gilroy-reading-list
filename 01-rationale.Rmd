@@ -20,6 +20,62 @@ How do *different* communities interact, especially across differentials of powe
 
 **Consequences.**
 
-[This is provisional and tangential, but needs noting.]
-
 What does community *do* for people? Does it provide a motivation for participation in social action, and meaningful objects for people to attach to---for instance, a reason to care about the fates of some places and not others? It's typically conceived as bottom-up and organic---when and how is it coopted, by formal organizations, corporations, or the state?
+
+## Sample readings
+
+### Structure, culture, reproduction
+
+Lizardo, Omar. 2006. “How Cultural Tastes Shape Personal Networks.” American Sociological Review 71(5):778–807.
+
+Hwang, Jackelyn. 2016. “The Social Construction of a Gentrifying Neighborhood: Reifying and Redefining Identity and Boundaries in Inequality.” Urban Affairs Review 52(1):98–128.
+
+Vaisey, Stephen. 2007. “Structure, Culture, and Community: The Search for Belonging in 50 Urban Communes.” American Sociological Review 72(6):851–73.
+
+Wellman, Barry. 1979. “The Community Question: The Intimate Networks of East Yorkers.” American Journal of Sociology 84(5):1201–31.
+
+White, Harrison C. 2008. “Notes on the Constituents of Social Structure. Soc. Rel. 10 - Spring ’65.” Sociologica (1):0–0.
+
+### Scale, geography, technology
+
+Anderson, Benedict. [1983] 2016. Imagined Communities: Reflections on the Origin and Spread of Nationalism. Verso.
+
+Fischer, Claude S. 1975. “Toward a Subcultural Theory of Urbanism.” American Journal of Sociology 80(6):1319–41.
+
+Simmel, Georg. [1903] 1971. “The Metropolis and Mental Life.” in Georg Simmel on Individuality and Social Forms, Heritage of sociology, edited by D. Levine. Chicago, University of Chicago Press.
+
+### Practice, interaction, identity
+
+Moon, Dawne. 2012. “Who Am I and Who Are We? Conflicting Narratives of Collective Selfhood in Stigmatized Groups.” American Journal of Sociology 117(5):1336–79.
+
+Tavory, Iddo. 2016. Summoned: Identification and Religious Life in a Jewish Neighborhood. University of Chicago Press.
+
+Wirth, Louis. 1928. The Ghetto. Transaction.
+
+### Power, visibility, stigma
+
+Du Bois, W. E. B. [1903] 1995. “Of Our Spiritual Strivings.” in W.E.B. Du Bois: a reader, edited by D. L. Lewis. New York: HHolt and Co.
+
+Goffman, Erving. 1963. Stigma: Notes on the Management of Spoiled Identity. Englewood Cliffs, N.J.: Prentice-Hall.
+
+Marx, Karl. [1843] 1972. “On the Jewish Question.” in The Marx-Engels Reader, edited by R. C. Tucker. New York, Norton.
+
+Simmel, Georg. [1908] 1971. “The Stranger.” in Georg Simmel on Individuality and Social Forms, Heritage of sociology, edited by D. Levine. Chicago, University of Chicago Press.
+
+### Consequences
+
+Collins, Patricia Hill. 2010. “The New Politics of Community.” American Sociological Review 75(1):7–30.
+
+Joseph, Miranda. 2002. Against the Romance of Community. Minneapolis: University of Minnesota Press.
+
+## Existing work on LGBTQ community
+
+[These are key examples of work on LGBTQ community. They do not need to form part of my reading list, but I've worked backward from them to determine what concepts and readings I should include. They're the sources of key themes like place, cultural reproduction, and group membership.]
+
+Brown-Saracino, Japonica. 2017. How Places Make Us: Novel LBQ Identities in Four Small Cities. 1 edition. Chicago ; London: University of Chicago Press.
+
+Kelly, Brian C., Richard M. Carpiano, Adam Easterbrook, and Jeffrey T. Parsons. 2014. “Exploring the Gay Community Question: Neighborhood and Network Influences on the Experience of Community among Urban Gay Men.” The Sociological Quarterly 55(1):23–48.
+
+Orne, Jason. 2017. Boystown: Sex and Community in Chicago. Chicago ; London: University of Chicago Press.
+
+Pfeffer, Carla A. 2014. “‘I Don’t Like Passing as a Straight Woman’: Queer Negotiations of Identity and Social Group Membership.” American Journal of Sociology 120(1):1–44.
