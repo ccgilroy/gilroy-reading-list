@@ -1,9 +1,45 @@
 # Reading List
 
-[The reading list will live here.]
+```{r echo=FALSE}
+library(RefManageR)
+BibOptions(style = "markdown", bib.style = "authoryear", first.inits = FALSE, 
+           no.print.fields = c("issn", "isbn",
+                               "eprint", "eprinttype", 
+                               "url", "urldate", 
+                               "series"))
+```
 
-## Section 1
+## Structure, Culture, Reproduction
 
-## Section 2
+```{r echo=FALSE, results='asis'}
+scr <- ReadBib("bib/01-structure-culture-reproduction.bib")
+scr
+```
 
-## Section 3
+## Scale, Geography, Technology
+
+```{r echo=FALSE, results='asis'}
+sgt <- ReadBib("bib/02-scale-geography-technology.bib")
+sgt
+```
+
+## Practice, Interaction, Identity
+
+```{r echo=FALSE, results='asis'}
+pii <- ReadBib("bib/03-practice-interaction-identity.bib")
+pii
+```
+
+## Power, Visibility, Stigma
+
+```{r echo=FALSE, results='asis'}
+pvs <- ReadBib("bib/04-power-visibility-stigma.bib")
+pvs
+```
+
+## Consequences of Community 
+
+```{r echo=FALSE, results='asis'}
+coc <- ReadBib("bib/05-consequences-of-community.bib")
+coc
+```
