@@ -12,3 +12,7 @@ pre {
 pre code {
   white-space: inherit;
 }
+#reading-list.level1 p {
+  margin-left: 2.5em;
+  text-indent: -2.5em;
+}
