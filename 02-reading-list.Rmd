@@ -9,37 +9,38 @@ BibOptions(style = "markdown", bib.style = "authoryear", first.inits = FALSE,
                                "series"))
 ```
 
-## Structure, Culture, Reproduction
+## Structure, culture, reproduction
 
 ```{r echo=FALSE, results='asis'}
 scr <- ReadBib("bib/01-structure-culture-reproduction.bib")
 scr
 ```
 
-## Scale, Geography, Technology
+## Scale, geography, technology
 
 ```{r echo=FALSE, results='asis'}
 sgt <- ReadBib("bib/02-scale-geography-technology.bib")
 sgt
 ```
 
-## Practice, Interaction, Identity
+## Practice, interaction, identity
 
 ```{r echo=FALSE, results='asis'}
 pii <- ReadBib("bib/03-practice-interaction-identity.bib")
 pii
 ```
 
-## Power, Visibility, Stigma
+## Power, visibility, stigma
 
 ```{r echo=FALSE, results='asis'}
 pvs <- ReadBib("bib/04-power-visibility-stigma.bib")
 pvs
 ```
 
-## Consequences of Community 
+## Consequences of community 
 
 ```{r echo=FALSE, results='asis'}
 coc <- ReadBib("bib/05-consequences-of-community.bib")
 coc
 ```
+
