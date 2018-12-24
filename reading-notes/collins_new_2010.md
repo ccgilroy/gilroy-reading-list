@@ -1,12 +1,4 @@
-# Reading Notes
-
-[Reading notes will live here.]
-
 ## Collins 2010, "The New Politics of Community"
-
-@collins_new_2010
-
-\fullcite{collins_new_2010}
 
 [this was the 2009 ASA presidential address. it's useful because it's an opinionated take on the state of a particular facet of the discipline. it happens to be one that resonates strongly with me.]
 
