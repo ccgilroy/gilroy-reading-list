@@ -9,38 +9,41 @@ BibOptions(style = "markdown", bib.style = "authoryear", first.inits = FALSE,
                                "series"))
 ```
 
-## Structure, culture, reproduction
+## Structure, culture, and the (re)production of community
+
+\setlength\parindent{-1cm}
+\setlength\leftskip{1cm}
 
 ```{r echo=FALSE, results='asis'}
 scr <- ReadBib("bib/01-structure-culture-reproduction.bib")
 scr
 ```
 
-## Scale, geography, technology
+\setlength\parindent{0cm}
+\setlength\leftskip{0cm}
+
+## Practices of inclusion and exclusion
+
+\setlength\parindent{-1cm}
+\setlength\leftskip{1cm}
 
 ```{r echo=FALSE, results='asis'}
-sgt <- ReadBib("bib/02-scale-geography-technology.bib")
-sgt
+pie <- ReadBib("bib/02-practices-inclusion-exclusion.bib")
+pie
 ```
 
-## Practice, interaction, identity
+\setlength\parindent{0cm}
+\setlength\leftskip{0cm}
+
+## Changes and consequences
+
+\setlength\parindent{-1cm}
+\setlength\leftskip{1cm}
 
 ```{r echo=FALSE, results='asis'}
-pii <- ReadBib("bib/03-practice-interaction-identity.bib")
-pii
+cc <- ReadBib("bib/03-changes-consequences.bib")
+cc
 ```
 
-## Power, visibility, stigma
-
-```{r echo=FALSE, results='asis'}
-pvs <- ReadBib("bib/04-power-visibility-stigma.bib")
-pvs
-```
-
-## Consequences of community 
-
-```{r echo=FALSE, results='asis'}
-coc <- ReadBib("bib/05-consequences-of-community.bib")
-coc
-```
-
+\setlength\parindent{0cm}
+\setlength\leftskip{0cm}

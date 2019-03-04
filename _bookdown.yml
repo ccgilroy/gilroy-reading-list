@@ -2,5 +2,17 @@ book_filename: "gilroy-reading-list"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
 output_dir: "docs"
+rmd_files: ["index.Rmd", "01-rationale.Rmd", "02-reading-list.Rmd"]
+#   default: ["index.Rmd", "01-rationale.Rmd", "02-reading-list.Rmd"]
+#  html: ["index.Rmd", 
+#         "01-rationale.Rmd", 
+#         "02-reading-list.Rmd",
+#         "03-memos.Rmd", 
+#         "04-reading-notes.Rmd", 
+#         "05-additional-readings.Rmd", 
+#         "06-references.Rmd"]
+#  latex: ["index.Rmd", 
+#          "01-rationale.Rmd", 
+#          "02-reading-list.Rmd"]
