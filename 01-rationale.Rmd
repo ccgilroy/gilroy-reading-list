@@ -19,3 +19,25 @@ How does scale, from local to global, shape the experience of or even possibilit
 What does community *do* for people? Does it provide a motivation for participation in social action, and meaningful objects for people to attach to---for instance, a reason to care about the fates of some places and not others? It's typically conceived as bottom-up and organic---when and how is it coopted, by formal organizations, corporations, or the state?
 
 ## [TODO] Narrative rationale
+
+Community is a central but nebulous concept in sociology. This list integrates structural and cultural theories to develop a more precise understanding of community as cohesive groupings emerging from social relations, a perception of groupness arising from nominal categories, and the emotional and symbolic force of senses of solidarity and belonging. Community is socially constructed and reproduced through an interaction of networks and meanings. Together, tastes and ties can produce a heterogeneity of consolidated groups within society. [feels like it needs a sentence here] (heterogeneity of tastes? relations between them?)
+
+[god, it feels like I've been reading Blau]
+
+this section is super abstract, theoretical, conceptual.
+
+examples: ethnicity, sexuality,
+
+a couple recurring categories serve as examples of these processes: race/ethnicity/nation, religion, and sexuality.
+
+Where the first section considers the emergence of cohesive groups within a society at the macro level, the second section shifts attention to micro-level practices of inclusion and exclusion. These practices provide mechanisms for the maintenance of distinct communities. A particular emphasis [emphasizes how these practices feed into] is on the power relations between the community of the majority (or the privileged) and communities of marginalized groups. These latter groups could be marginal merely because they are a numeric minority, or because they lack certain resources. The focus is on what people actually do, not how they identify, but when several identity categories are available as potentially salient for organizing actual groups I must consider how they intersect or interact.
+
+integration and conflict, mechanisms of stigmatization, ritual, and purity. religion.
+
+[q: integration, assimilation. stigmatization, purity, ritual. conflict!]
+
+The final section of the exam addresses why and how the existence of community matters for social life. Moreover, it considers the consequences of change in community, particularly changes mediated by geography [i.e. urbanization] and technology. For individuals, a desire for community provides one possible motivation for social action, and a threatened or perceived "loss" of community can spur action as well. Collective actors also make use of community. Social movements leverage community ties for political action, and formal organizations like corporations and the state can appropriate the informal groupings of community for their own ends.
+
+nationalism. capitalism.
+
+this is the most practical section.

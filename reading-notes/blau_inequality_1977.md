@@ -35,3 +35,7 @@ need nominal parameters for boundaries, and hence for substructures [16]
 he's more in line with British structural anthropologists than French structuralists; doesn't care about culture, values, symbols [16]. more in line with Durkheim's division of labor, not study of religion. [maybe in part because he agrees with Parsons' take on EFRL?]
 
 chapter 7 is gonna be important
+
+
+
+Fourcade on ordinalization
