@@ -39,3 +39,7 @@ chapter 7 is gonna be important
 
 
 Fourcade on ordinalization
+
+meta notes:
+
+he doesn't really use "community" to mean what I mean; "group" is closer

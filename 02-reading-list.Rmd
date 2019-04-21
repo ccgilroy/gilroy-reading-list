@@ -2,19 +2,20 @@
 
 ```{r echo=FALSE}
 library(RefManageR)
-BibOptions(style = "markdown", bib.style = "authoryear", first.inits = FALSE, 
+BibOptions(style = "markdown", bib.style = "authoryear", first.inits = FALSE,
            no.print.fields = c("issn", "isbn",
-                               "eprint", "eprinttype", 
-                               "url", "urldate", 
-                               "series"))
+                               "eprint", "eprinttype",
+                               "url", "urldate",
+                               "series"),
+           check.entries = FALSE)
 ```
 
-## Structure, culture, and the (re)production of community
+## Structure, culture, and the (re)production of community {#scr}
 
 \setlength\parindent{-1cm}
 \setlength\leftskip{1cm}
 
-```{r echo=FALSE, results='asis'}
+```{r echo=FALSE, results='asis', warning=FALSE}
 scr <- ReadBib("bib/01-structure-culture-reproduction.bib")
 scr
 ```
@@ -22,12 +23,12 @@ scr
 \setlength\parindent{0cm}
 \setlength\leftskip{0cm}
 
-## Practices of inclusion and exclusion
+## Practices of inclusion and exclusion {#pie}
 
 \setlength\parindent{-1cm}
 \setlength\leftskip{1cm}
 
-```{r echo=FALSE, results='asis'}
+```{r echo=FALSE, results='asis', warning=FALSE}
 pie <- ReadBib("bib/02-practices-inclusion-exclusion.bib")
 pie
 ```
@@ -35,12 +36,12 @@ pie
 \setlength\parindent{0cm}
 \setlength\leftskip{0cm}
 
-## Changes and consequences
+## Changes and consequences {#cc}
 
 \setlength\parindent{-1cm}
 \setlength\leftskip{1cm}
 
-```{r echo=FALSE, results='asis'}
+```{r echo=FALSE, results='asis', warning=FALSE}
 cc <- ReadBib("bib/03-changes-consequences.bib")
 cc
 ```

@@ -1,5 +1,6 @@
---- 
+---
 title: "Comprehensive Exam Reading List"
+subtitle: "Community: Origins, Processes, and Consequences"
 author: "Connor Gilroy"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -15,7 +16,7 @@ urlcolor: blue
 
 # Introduction {-}
 
-This is the reading list for my [PhD comprehensive exam](https://soc.washington.edu/phd-comprehensive-exam) in Sociology at the University of Washington. 
+This is the reading list for my [PhD comprehensive exam](https://soc.washington.edu/phd-comprehensive-exam) in Sociology at the University of Washington.
 
 The reading list is hosted online at https://ccgilroy.github.io/gilroy-reading-list/. It was created using the [**bookdown**](https://bookdown.org/) R package.
 
