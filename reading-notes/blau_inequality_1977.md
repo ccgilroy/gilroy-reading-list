@@ -40,6 +40,10 @@ chapter 7 is gonna be important
 
 Fourcade on ordinalization
 
+Fourcade, Marion. 2016. “Ordinalization: Lewis A. Coser Memorial Award for Theoretical Agenda Setting 2014.” Sociological Theory 34(3):175–95.
+
+(oh wow that's a good article, and she ties it to Blau, and to Bowker & Star...)
+
 meta notes:
 
 he doesn't really use "community" to mean what I mean; "group" is closer
